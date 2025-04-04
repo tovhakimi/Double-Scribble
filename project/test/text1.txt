@@ -1,0 +1,4 @@
+
+The quick brown fox jumps over the lazy dog.
+This is a simple text file used for testing the Dictionary.
+Bloom filters are useful for efficient text searching.
